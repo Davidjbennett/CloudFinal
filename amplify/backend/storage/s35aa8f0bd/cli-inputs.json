@@ -1,0 +1,14 @@
+{
+  "resourceName": "s35aa8f0bd",
+  "policyUUID": "5aa8f0bd",
+  "bucketName": "cloudfinalreactgraphd3fa012b1871453cb3448c16e11",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
